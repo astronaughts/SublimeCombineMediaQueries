@@ -30,10 +30,10 @@ Comming soon ...
 
 ## Configure
 
-Set the `bin_path` in `Preferences: Package Settings > SublimeCombineMediaQueries > Settings – User` to the location of the Node bin path:
+Set the `bin_path` in `Preferences: Package Settings > SublimeCombineMediaQueries > Settings – User` to the location of the `Node` bin path:
+
+```
 {
   "bin_path" : "/usr/local/bin"
 }
-
-
-
+```
