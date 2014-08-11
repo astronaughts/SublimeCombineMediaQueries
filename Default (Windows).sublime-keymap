@@ -1,0 +1,3 @@
+[
+    { "keys": ["ctrl+shift+c"], "command": "scmq_file_combine" }
+]

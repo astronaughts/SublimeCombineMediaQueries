@@ -1,0 +1,9 @@
+[
+    {"caption": "-"},
+    {"caption": "CombineMediaQueries",
+        "children": [
+            { "caption": "Combine", "command": "scmq_file_combine" }
+        ]
+    },
+    {"caption": "-"}
+]
